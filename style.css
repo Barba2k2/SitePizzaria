@@ -29,8 +29,6 @@ html {
 
 /* MENU */
 
-
-
 .content {
     width: 100vw;
     height: 70px;
@@ -50,13 +48,11 @@ html {
     align-items: center;
 }
 
-
 .logo h3 {
    color: white;
    font-size: 1.6rem;
 
 }
-
 
 .logo img {
     width: 100%;
@@ -456,9 +452,7 @@ footer {
         margin: 2rem;
         
     }
-
 }
-
 
 @media (max-width: 720px) {
     .conteudo-principal h1 {
@@ -507,7 +501,6 @@ footer {
        font-size: 2rem;
     }
 
-
     .sobre-nos img {
         width: 300px;
         height: auto;
@@ -518,9 +511,4 @@ footer {
         text-align: center;
         width: 200px;
      }
-
-    
 }
-
-
-
